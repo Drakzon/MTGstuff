@@ -2,8 +2,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Abandon Reason,Eldritch Moon,115,Near Mint,English,,,,,,,,
 1,0,Aberrant Researcher,Shadows over Innistrad,49,Near Mint,English,,,,,,,,
 1,0,Abundance,Duel Decks: Nissa vs. Ob Nixilis,2,Near Mint,English,,,,,,,,0
-3,0,Abundant Maw,Eldritch Moon,1,Near Mint,English,,,,,,,,0
 1,0,Abundant Maw,Eldritch Moon,1,Near Mint,English,foil,,,,,,,0
+3,0,Abundant Maw,Eldritch Moon,1,Near Mint,English,,,,,,,,0
 1,0,Academy Elite,Commander 2016,81,Near Mint,English,,,,,,,,0
 5,0,Accomplished Automaton,Kaladesh,191,Near Mint,English,,,,,,,,
 5,0,Acrobatic Maneuver,Kaladesh,1,Near Mint,English,,,,,,,,
@@ -378,8 +378,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 8,0,Ingenious Skaab,Eldritch Moon,66,Near Mint,English,,,,,,,,
 1,0,Inner Struggle,Shadows over Innistrad,167,Near Mint,English,,,,,,,,
 1,0,Innocent Blood,Duel Decks: Nissa vs. Ob Nixilis,54,Near Mint,English,,,,,,,,0
-1,0,Inquisitor's Ox,Shadows over Innistrad,24,Near Mint,English,foil,,,,,,,0
 3,0,Inquisitor's Ox,Shadows over Innistrad,24,Near Mint,English,,,,,,,,0
+1,0,Inquisitor's Ox,Shadows over Innistrad,24,Near Mint,English,foil,,,,,,,0
 5,0,Insatiable Gorgers,Eldritch Moon,134,Near Mint,English,,,,,,,,0
 3,0,Insect,Extras: Shadows over Innistrad,7,Near Mint,English,,,,,,,,0
 1,0,Insidious Will,Kaladesh,52,Near Mint,English,,,,,,,,
@@ -480,8 +480,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Mountain,Kaladesh,260,Near Mint,English,,,,,,,,0
 3,0,Mountain,Kaladesh,261,Near Mint,English,,,,,,,,0
 1,0,Mournwillow,Eldritch Moon,187,Near Mint,English,,,,,,,,
-1,0,Multiform Wonder,Kaladesh,223,Near Mint,English,foil,,,,,,,0
 1,0,Multiform Wonder,Kaladesh,223,Near Mint,English,,,,,,,,
+1,0,Multiform Wonder,Kaladesh,223,Near Mint,English,foil,,,,,,,0
 2,0,Murder,Eldritch Moon,97,Near Mint,English,,,,,,,,0
 2,0,Murderer's Axe,Shadows over Innistrad,259,Near Mint,English,,,,,,,,
 1,0,Murderous Compulsion,Shadows over Innistrad,126,Near Mint,English,,,,,,,,
@@ -836,3 +836,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Zombie,Extras: Eldritch Moon,5,Near Mint,English,,,,,,,,0
 1,0,Zombie,Extras: Eldritch Moon,6,Near Mint,English,,,,,,,,0
 1,0,Zombie,Prerelease Events: Eldritch Moon,1,Near Mint,English,,,,,,,,0
+
+
+
+
